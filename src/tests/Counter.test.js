@@ -36,3 +36,4 @@ test('clicking - decrements the count', () => {
   const initialCount = screen.getByTestId('count');
   expect(initialCount).toHaveTextContent('-1');
 });
+//Abdoul Karim Konate
